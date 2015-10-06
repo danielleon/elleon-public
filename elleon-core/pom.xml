@@ -29,5 +29,6 @@
   </properties>
   <modules>
   	<module>elleon-core-application</module>
+  	<module>elleon-core-vaadin</module>
   </modules>
 </project>
