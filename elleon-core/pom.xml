@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.elleon</groupId>
   <artifactId>elleon-core</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
   <name>elleon-core</name>
   <description>Core framework for elleon applications</description>
