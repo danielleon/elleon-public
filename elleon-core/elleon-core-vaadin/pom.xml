@@ -3,7 +3,7 @@
   <parent>
     <groupId>de.elleon</groupId>
     <artifactId>elleon-core</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
   </parent>
   <artifactId>elleon-core-vaadin</artifactId>
   <name>elleon-core-vaadin</name>
