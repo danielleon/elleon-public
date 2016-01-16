@@ -1,5 +1,6 @@
 package de.elleon.dbca.application.ui;
 
+import de.elleon.dbca.application.ui.analytics.ViewTracker;
 import de.elleon.dbca.application.ui.navigation.NavigationManager;
 
 /**
@@ -38,4 +39,11 @@ public interface UserInterface {
 	 * method for open implementation of layout changes
 	 */
 	public void updateUI();
+	
+	/**
+	 * adds a ViewTracker to the UserInterface
+	 * 
+	 * @param tracker ViewTracker to be added to the UserInterface
+	 */
+	public void addViewTracker(ViewTracker tracker);
 }
